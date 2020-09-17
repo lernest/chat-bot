@@ -1,0 +1,34 @@
+#header {
+  padding-top: 40px;
+  padding-bottom: 30px;
+  background-color: #f5f8fb;
+  border-bottom: 1px solid #0f0f59;
+  margin-bottom: 15px;
+}
+
+.markdown {
+  text-align: left;
+}
+
+.chatbot {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+}
+
+.chatbot ul {
+  list-style: none;
+}
+
+.chatbot h2 {
+  font-size: 20px;
+}
+
+li {
+  padding-bottom: 7px;
+}
+
+.App {
+  text-align: center;
+}
